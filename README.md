@@ -1,3 +1,3 @@
-Write-ups
+Write-ups & Challenges
 =========
-Write-ups and code used in various CTFs and other challenges.
+Challenges & Write-ups I've created and code used in various CTFs and other challenges.
